@@ -56,7 +56,7 @@
     "@sapphire/async-queue": "^1.5.3",
     "@sapphire/shapeshift": "^3.9.5",
     "discord-api-types": "^0.37.61",
-    "fetch-cookie": "^2.1.0",
+    "fetch-cookie": "^3.0.1",
     "find-process": "^1.4.7",
     "form-data": "^4.0.0",
     "node-fetch": "^2.6.9",
